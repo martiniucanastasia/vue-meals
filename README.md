@@ -1,3 +1,8 @@
+### UI
+
+<img width="1000" alt="Screenshot 2023-11-18 at 10 40 41" src="https://github.com/martiniucanastasia/vue-meals/assets/86486215/31285ae3-881b-4e2e-be87-29f8190468fa">
+
+
 ### Quick Start
 
 Clone the repo
